@@ -2,10 +2,10 @@
 layout: default
 modal-id: 1
 date: 2022-12-31
-img: 01_STORE.png
+img: 01_ENERGY-RECOVERY.png
 alt: image-alt
-#project-date: 2023
-#client: Southern Colorado
-#category: Heavy Equipment Service & Repair
-description: <p><h4>Follow <a href="https://socoindustrial.square.site/">this link</a> to be redirected to our online store.</h4></p><p>Browse our services and the common hydraulic and pneumatic parts we stock. Order online and we will deliver to the Cañon City/Florence area the following day. Outside this area and we will use UPS or FedEx to ship the parts the following business day after the order is received.</p> <p>If you order an Oil Change Service through our online store, be sure to schedule it by calling or texting (719) 877-5139. Or you can email us at admin@socoindustrial.com. Or use our <a href="https://calendly.com/socoindustrial/">online calendar</a> to schedule your service. 
+#project-date:
+#client:
+#category:
+description: <p>SOCO Energy Corporation is devoted to recovering energy from used oil that would otherwise be lost through waste or other industrial processes. Even after its intended useful purpose many oils refined from crude, synthetics or a blended combination still contain properties that are ideal for other uses besides lubricating machinery. By processing used oil with advanced techniques it can be turned into quality burner fuel and the remaining stored energy can be released in the form of heat or power production. The energy recovery process eliminates the hazard of used oil spills in homes, commercial sites, or wherever used oil is accumulated and keeps it out of landfills or other disposal sites. Recovering energy from used oil also helps reduce the demand for energy from other sources. To learn more about our energy recovery process, give us a call or text at +1 (877) 333-1776 or send us an email at <a href="mailto:admin@socoenergy.org">admin@socoenergy.org</a>.</p> 
 ---
