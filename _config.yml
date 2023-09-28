@@ -34,17 +34,17 @@ color:
 footer:
   copyright: SOCO ENERGY CORPORATION
   location: Location
-  #social: Social Media Links
+  social: Social Media Links
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-#social:
-  #- title: twitter
-    #url: https://twitter.com/SOCOindustrial
+social:
+  - title: Nostr
+    url: https://snort.social/p/npub19fvh0mutm5nelj0mst4jxu0s3dp75wt7dhtpxx8gv73pf66js6gqv9848n
   #- title: facebook
     #url: https://www.facebook.com/socoindustrial
-  #- title: github
-    #url: https://github.com/SOCOindustrial
+  - title: github
+    url: https://github.com/SOCOenergy
 
 # Postal address (add as many lines as necessary)
 address:
